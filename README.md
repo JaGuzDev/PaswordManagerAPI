@@ -396,10 +396,6 @@ PostgreSQL connection string set via `PM_DB_CONNECTION_STRING` environment varia
 | DeviceInfo | varchar | User agent/device info |
 | UserId | bigint | Foreign key to Users |
 
-## 📝 License
-
-This project is private and maintained by [JaGuzDev](https://github.com/JaGuzDev).
-
 ## 🤝 Contributing
 
 This is a personal project. For questions or suggestions, please open an issue.
