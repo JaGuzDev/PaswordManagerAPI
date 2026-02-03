@@ -1,4 +1,4 @@
-# Password Manager
+# Password Manager API
 
 A secure, full-stack password management solution built with .NET 10 and PostgreSQL. This application provides secure password storage with encryption, JWT-based authentication, and a RESTful API.
 
