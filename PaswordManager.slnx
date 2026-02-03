@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PasswordManager.Common/PasswordManager.Common.csproj" />
+  <Project Path="PasswordManager.Domain/PasswordManager.Domain.csproj" />
+  <Project Path="PasswordManager.Infrastructure/PasswordManager.Infrastructure.csproj" />
+  <Project Path="PasswordManager.Model/PasswordManager.Model.csproj" />
+  <Project Path="PasswordManager.Web.Client/PasswordManager.Web.Client.csproj" />
+</Solution>
